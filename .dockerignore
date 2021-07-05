@@ -1,0 +1,15 @@
+# folders
+node_modules
+dist
+coverage
+.elasticbeanstalk
+
+# logs
+*.log
+npm-debug.log
+
+# other files
+.gitignore
+.prettierrc
+.eslintrc.js
+Dockerfile
